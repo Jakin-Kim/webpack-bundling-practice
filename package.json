@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jakin-Kim/fe-sprint-my-agora-states-reference.git"
+    "url": "git+https://github.com/Jakin-Kim/webpack-bundling-practice.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jakin-Kim/fe-sprint-my-agora-states-reference/issues"
+    "url": "https://github.com/Jakin-Kim/webpack-bundling-practice.git"
   },
   "homepage": "https://github.com/Jakin-Kim/webpack-bundling-practice.git",
   "devDependencies": {
